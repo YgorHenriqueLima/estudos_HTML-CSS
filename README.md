@@ -7,7 +7,7 @@ estou aprendendo a criar sites e agora e estou gerenciando meus repostitórios e
 
 Modulo 1
 
-<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex001/index.html" target="blank_"> -> primeiro site</a><br>
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex001/index.html"> -> primeiro site</a><br>
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex002/index.html"> -> paragrafos e quebra de linha</a><br>
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex003/index.html"> -> teste de imagens</a><br>
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex004/index.html"> -> usando favicon</a><br>
