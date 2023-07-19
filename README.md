@@ -55,8 +55,8 @@ Modulo 2
 
 Modulo 3
 
-<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/"> -> configurando imagens de fundo</a>
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex023/site/fundo001.html"> -> configurando imagens de fundo</a>
 
-<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/"> -> função: background-repeat 
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex023/site/fundo002.html"> -> função: background-repeat 
 
 
