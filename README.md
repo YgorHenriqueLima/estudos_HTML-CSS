@@ -1,14 +1,13 @@
 # estudos_HTML-CSS
 
+curso de html e css do curso em video
 
-<h1>curso de html e css do curso em video</h1>
-
-<p>estou aprendendo a criar sites e agora e estou gerenciando meus repostitórios e meus exemplos de sites para fixar meus conhecimentos</p>
+estou aprendendo a criar sites e agora e estou gerenciando meus repostitórios e meus exemplos de sites para fixar meus conhecimentos
  
 
 Modulo 1
 
-<a style="text-decoration: none; color: white;" href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex001/index.html"> -> primeiro site</a><br>
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex001/index.html"> -> primeiro site</a><br>
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex002/index.html"> -> paragrafos e quebra de linha</a><br>
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex003/index.html"> -> teste de imagens</a><br>
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex004/index.html"> -> usando favicon</a><br>
@@ -24,4 +23,13 @@ Modulo 1
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex016/exemplos/cor01.html"> -> estilos interno</a><br>
 
 Modulo 2
+
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex016/exemplos/cor01.html"> -> cores em CSS3</a><br>
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex017/fonte01.html"> -> Tipografia</a><br>
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex018/font02_interno.html"> -> fontes interno e externos</a><br>
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex019/seletor01.html"> -> seletor personalizado</a><br>
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex020/hover.html"> -> pseudoclasses</a><br>
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex020/index.html"> -> hover</a><br>
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex021/index.html"> -> links personalizados</a><br>
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex022/caixa01.html"> -> modelo de caixa</a><br>
 
