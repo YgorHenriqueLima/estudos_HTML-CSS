@@ -1,10 +1,21 @@
 # estudos_HTML-CSS
 
-curso de html e css do curso em video
 
-estou aprendendo a criar sites e agora e estou gerenciando meus repostitórios e meus exemplos de sites para fixar meus conhecimentos
+<h1>curso de html e css do curso em video</h1>
+
+<p>estou aprendendo a criar sites e agora e estou gerenciando meus repostitórios e meus exemplos de sites para fixar meus conhecimentos</p>
  
+<style>
+    a {
+      text-decoration: none;
+      color: white; 
+    }
 
+    a:hover {
+        text-decoration: underline;
+        color: black;
+    }
+</style>
 Modulo 1
 
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex001/index.html"> -> primeiro site</a><br>
@@ -20,7 +31,7 @@ Modulo 1
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex012/index.html"> -> videos em html</a><br>
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex013/index.html"> -> estilos inline</a><br>
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex014/index.html"> -> estilos interno</a><br>
-<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex016/exemplos/cor01.html">estilos interno</a><br>
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex016/exemplos/cor01.html"> -> estilos interno</a><br>
 
 Modulo 2
 
