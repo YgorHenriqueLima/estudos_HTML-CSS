@@ -69,4 +69,7 @@ Modulo 3
 
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex023/site/fundo005.html"> -> background-position exemplo3
 
-<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex023/site/fundo006.html"> -> função: background-attachment 
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex023/site/fundo006.html"> -> função: background-attachment
+
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex023/site/fundo007.html"> -> Alinhamento Vertical
+ 
