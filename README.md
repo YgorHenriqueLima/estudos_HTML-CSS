@@ -3,7 +3,11 @@
 curso de html e css do curso em video
 
 estou aprendendo a criar sites e agora e estou gerenciando meus repostitórios e meus exemplos de sites para fixar meus conhecimentos
- 
+
+Sites exemplos
+<a href="https://ygorhenriquelima.github.io/projeto_cordel/">Projeto Cordel</a>
+<a href="https://ygorhenriquelima.github.io/projeto-android/">Projeto Android</a>
+
 
 Modulo 1
 
@@ -72,4 +76,3 @@ Modulo 3
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex023/site/fundo006.html"> -> função: background-attachment
 
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex023/site/fundo007.html"> -> Alinhamento Vertical
- 
