@@ -5,8 +5,8 @@ curso de html e css do curso em video
 estou aprendendo a criar sites e agora e estou gerenciando meus repostitórios e meus exemplos de sites para fixar meus conhecimentos
 
 Sites exemplos
-<a href="">Projeto Cordel</a>
-<a href="https://ygorhenriquelima.github.io/projeto-android/">Projeto Android</a>
+<a href="https://ygorhenriquelima.github.io/projeto_cordel/"> -> Projeto Cordel</a><br>
+<a href="https://ygorhenriquelima.github.io/projeto-android/">-> Projeto Android</a>
 
 
 Modulo 1
