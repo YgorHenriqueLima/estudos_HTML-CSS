@@ -78,4 +78,4 @@ Sites exemplos
 
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex024/tabela002.html"> -> Tabelas 02: Aprendendo a trabalhar com tabelas grandes
 
-<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex024/tabela002.html"> -> Tabelas 03: Mesclagem de células em Tabelas
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex024/tabela003.html"> -> Tabelas 03: Mesclagem de células em Tabelas
