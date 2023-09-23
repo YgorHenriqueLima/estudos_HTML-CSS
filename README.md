@@ -63,10 +63,6 @@ Modulo 3
 
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex023/site/fundo002.html"> -> função: background-repeat 
 
-<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex023/site/fundo001.html"> -> configurando imagens de fundo</a>
-
-<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex023/site/fundo002.html"> -> função: background-repeat 
-
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex023/site/fundo003.html"> -> função: background-position
 
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex023/site/fundo004.html"> -> background-position exemplo2
@@ -76,3 +72,10 @@ Modulo 3
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex023/site/fundo006.html"> -> função: background-attachment
 
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex023/site/fundo007.html"> -> Alinhamento Vertical
+
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex024/tabela001.html"> -> Tabelas: Hierarquias de tabelas, vertical-align, border-collapse
+
+
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex024/tabela002.html"> -> Tabelas 02: Aprendendo a trabalhar com tabelas grandes
+
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex024/tabela002.html"> -> Tabelas 03: Mesclagem de células em Tabelas
