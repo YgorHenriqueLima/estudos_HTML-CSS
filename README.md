@@ -9,7 +9,7 @@ Sites exemplos
 <a href="https://ygorhenriquelima.github.io/projeto-android/">-> Projeto Android</a>
 
 
-Modulo 1
+<h1 style="color: rgba(149, 117, 60, 0.681);">📁 Módulo 01: primeiro passos</h1>
 
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex001/index.html"> -> primeiro site</a><br>
 
@@ -39,7 +39,7 @@ Modulo 1
 
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex016/exemplos/cor01.html"> -> estilos externo</a><br>
 
-Modulo 2
+<h1 style="color: rgba(149, 117, 60, 0.681);">📁 Módulo 02: Estilos CSS e fontes</h1>
 
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex016/exemplos/cor01.html"> -> cores em CSS3</a><br>
 
@@ -57,7 +57,7 @@ Modulo 2
 
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex022/caixa01.html"> -> modelos de caixa: margin, width, height, padding, outline, border</a><br>
 
-Modulo 3
+<h1 style="color: rgba(149, 117, 60, 0.681);">📁 Módulo 03: imagens de fundo e tabelas</h1>
 
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex023/site/fundo001.html"> -> configurando imagens de fundo</a>
 
