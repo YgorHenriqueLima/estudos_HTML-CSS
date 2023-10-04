@@ -1,25 +1,8 @@
 # estudos_HTML-CSS
 
-<style>
-    a {
-        color: white;
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+Bem-vindo a esta seção do meu repositório, onde compartilho meus exercícios de HTML e CSS, demonstrando visualmente todos os conceitos que aprendi, fixando os meus conhecimentos
 
-
-    }
-
-    a:hover{
-        background-color: lightgray;
-    }
-</style>
-
-<p>
-    
-    Bem-vindo a esta seção do meu repositório, onde compartilho meus exercícios de HTML e CSS, demonstrando visualmente todos os conceitos que aprendi, fixando os meus conhecimentos
-
-    conhecimentos obtidos através do canal Curso em Vídeo do professor Gustavo Guanabara no Youtube
-    
-</p>
+conhecimentos obtidos através do canal Curso em Vídeo do professor Gustavo Guanabara no Youtube
 
 <p> 💻 PROJETOS CRIADOS: </p>
 
