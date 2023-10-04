@@ -1,14 +1,31 @@
 # estudos_HTML-CSS
 
-curso de html e css do curso em video
+<style>
+    a {
+        color: white;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
-estou aprendendo a criar sites e agora e estou gerenciando meus repostitórios e meus exemplos de sites para fixar meus conhecimentos
 
-<p>PROJETOS CRIADOS: </p>
+    }
+
+    a:hover{
+        background-color: lightgray;
+    }
+</style>
+
+<p>
+    
+    Bem-vindo a esta seção do meu repositório, onde compartilho meus exercícios de HTML e CSS, demonstrando visualmente todos os conceitos que aprendi, fixando os meus conhecimentos
+
+    conhecimentos obtidos através do canal Curso em Vídeo do professor Gustavo Guanabara no Youtube
+    
+</p>
+
+<p> 💻 PROJETOS CRIADOS: </p>
 
 <a href="https://ygorhenriquelima.github.io/projeto_cordel/"> -> Projeto Cordel</a><br>
-<a href="https://ygorhenriquelima.github.io/projeto-android/">-> Projeto Android</a>
-
+<a href="https://ygorhenriquelima.github.io/projeto-android/">-> Android</a><br>
+<a href="https://ygorhenriquelima.github.io/Projeto_redes_sociais/">-> 📱Projeto Redes Sociais</a>
 
 <h1 style="color: rgba(149, 117, 60, 0.681);">📁 Módulo 01: primeiro passos</h1>
 
