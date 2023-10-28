@@ -104,4 +104,6 @@ conhecimentos obtidos através do canal Curso em Vídeo do professor Gustavo Gua
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex026/form001.html"> -> formulários 01: primeiro formulário
 
 
-<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex026/form002.html"> -> formulários 01: primeiro formulário
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex026/form002.html"> -> formulários 02: caixas de texto, de senha e atributos required, max e min lenght, size, placeholder e autocomplete
+
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex026/form003.html"> -> elementos number, month, date e time
