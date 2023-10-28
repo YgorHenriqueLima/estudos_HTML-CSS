@@ -110,3 +110,9 @@ conhecimentos obtidos através do canal Curso em Vídeo do professor Gustavo Gua
 
 
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex026/form004.html"> -> elementos e-mail e telefone em formulários
+
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex026/form005.html"> -> Radio button e checkbox em formulários
+
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex026/form006.html"> -> elementos color, range e file
+
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex026/form007.html"> -> tags select, datalist e textarea
