@@ -116,3 +116,11 @@ conhecimentos obtidos através do canal Curso em Vídeo do professor Gustavo Gua
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex026/form006.html"> -> elementos color, range e file
 
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex026/form007.html"> -> tags select, datalist e textarea
+
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex026/form008.html"> -> output e oninput, com códigos JavaScript
+
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex026/form009.html"> ->
+output e oninput, com códigos JavaScript para range
+
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex026/form010.html"> ->
+output e oninput, com códigos JavaScript: exemplo de calculo de idade
