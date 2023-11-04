@@ -124,3 +124,8 @@ output e oninput, com códigos JavaScript para range
 
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex026/form010.html"> ->
 output e oninput, com códigos JavaScript: exemplo de calculo de idade
+
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex027/mq001/index.html"> -> media query: para impressão de site
+
+
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex027/mq002/index.html"> -> media query: imagens responsivas
