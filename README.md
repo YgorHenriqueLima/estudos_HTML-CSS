@@ -131,3 +131,5 @@ output e oninput, com códigos JavaScript: exemplo de calculo de idade
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex027/mq002/index.html"> -> media query: imagens responsivas 
 
 <a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex027/mq004/index.html"> -> Mobile Firts e media queries
+
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/exercicios/ex027/mq005/index.html"> -> Sites utilizando menu e media queries
