@@ -8,7 +8,7 @@ conhecimentos obtidos através do canal Curso em Vídeo do professor Gustavo Gua
 
 <a href="https://ygorhenriquelima.github.io/projeto_cordel/"> -> Projeto Cordel</a><br>
 <a href="https://ygorhenriquelima.github.io/projeto-android/">-> Android</a><br>
-<a href="https://ygorhenriquelima.github.io/Projeto_redes_sociais/">-> 📱Projeto Redes Sociais</a>
+<a href="https://ygorhenriquelima.github.io/Projeto_redes_sociais/">-> 📱Projeto Redes Sociais</a><br>
 <a href="https://ygorhenriquelima.github.io/projeto-login/">-> Projeto login</a>
 
 
