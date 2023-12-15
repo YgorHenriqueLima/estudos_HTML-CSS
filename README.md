@@ -4,13 +4,6 @@ Bem-vindo a esta seção do meu repositório, onde compartilho meus exercícios 
 
 conhecimentos obtidos através do canal Curso em Vídeo do professor Gustavo Guanabara no Youtube
 
-<p> 💻 PROJETOS CRIADOS: </p>
-
-<a href="https://ygorhenriquelima.github.io/projeto_cordel/"> -> Projeto Cordel</a><br>
-<a href="https://ygorhenriquelima.github.io/projeto-android/">-> Android</a><br>
-<a href="https://ygorhenriquelima.github.io/Projeto_redes_sociais/">-> 📱Projeto Redes Sociais</a><br>
-<a href="https://ygorhenriquelima.github.io/projeto-login/">-> Projeto login</a>
-
 
 <h1 style="color: rgba(149, 117, 60, 0.681);">📁 Módulo 01: primeiro passos</h1>
 
