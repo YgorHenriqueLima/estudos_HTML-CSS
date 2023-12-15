@@ -4,6 +4,13 @@ Bem-vindo a esta seção do meu repositório, onde compartilho meus exercícios 
 
 conhecimentos obtidos através do canal Curso em Vídeo do professor Gustavo Guanabara no Youtube
 
+<h1 style="color: rgba(149, 117, 60, 0.681);">📁 PROJETOS CRIADOS</h1>
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/projetos/Projeto_android/index.html"> -> Projeto Android</a><br>
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/projetos/projeto_cordel/index.html"> -> Projeto Cordel</a><br>
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/projetos/Projeto_Login/index.html"> -> Projeto Login</a><br>
+<a href="https://ygorhenriquelima.github.io/estudos_HTML-CSS/projetos/Projeto_redes_sociais/index.html"> -> Projeto Android</a><br>
+
+
 
 <h1 style="color: rgba(149, 117, 60, 0.681);">📁 Módulo 01: primeiro passos</h1>
 
